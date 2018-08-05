@@ -15,6 +15,10 @@ p, ul, ol {
   margin-bottom: 30px;
 }
 
+.footer-a {
+  color: #ccc !important
+}
+
 a {
   -webkit-transition: .3s all ease;
   -o-transition: .3s all ease;
@@ -1164,7 +1168,7 @@ textarea.form-control {
 }
 
 .section {
-  padding: 7em 0;
+  padding: 5em 0;
   z-index: 2;
   position: relative;
 }
